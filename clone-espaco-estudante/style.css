@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+h1 {
+    color:#1E9585;
+    font-size: 29px;
+    margin: 10px 0 5px 0;
+}
+
+#bem-vindo-subtexto {
+    color: gray;   
+    font-size: 13px; 
+}
+
+#caixa-login {
+    width: 269px;
+    height: 393px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin: 80px 0 0 200px;
+    padding: 15px 60px;
+    text-align: center;
+}
