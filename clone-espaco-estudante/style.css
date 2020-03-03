@@ -37,8 +37,36 @@ h1 {
     width: calc(100% - 14px);
     border: none;
     padding-left: 5px;
+    outline: none;
 }
 
 .inputs i {
     line-height: 27px;
+}
+
+.entrar{
+    width:100;
+    height:25;
+    background-color: #1E9585;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+}
+
+.entrar:hover{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+}
+
+#botao-google{
+    width: 200px;
+    height: 50px;
 }
